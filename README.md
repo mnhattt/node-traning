@@ -28,7 +28,7 @@
 1. SQL và NoSQL, 
 2. Query language, mongo shell / studio 3T
 
-## Express 
+## Express
 
 1. Cơ bản về express, cấu trúc project với express
 2. router, 
