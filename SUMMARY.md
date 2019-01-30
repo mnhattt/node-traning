@@ -1,16 +1,20 @@
-\# Summary
+# \#\#\# Summary
+
+# 
+
+# \* \[Booting\]\(Booting/README.md\)
+
+#     \* \[From bootloader to kernel\]\(Booting/linux-bootstrap-1.md\)
+
+#     \* \[First steps in the kernel setup code\]\(Booting/linux-bootstrap-2.md\)
+
+#     \* \[Video mode initialization and transition to protected mode\]\(Booting/linux-bootstrap-3.md\)
+
+#     \* \[Transition to 64-bit mode\]\(Booting/linux-bootstrap-4.md\)
+
+#     \* \[Kernel decompression\]\(Booting/linux-bootstrap-5.md\)
+
+#     \* \[Kernel load address randomization\]\(Booting/linux-bootstrap-6.md\)
 
 
-
-\* \[Part I\]\(chapter-1/README.md\)
-
-    \* \[Writing is nice\]\(chapter-1/writing.md\)
-
-    \* \[GitBook is nice\]\(chapter-2/1.md\)
-
-\* \[Part II\]\(chapter-2/README.md\)
-
-    \* \[We love feedback\]\(chapter-2/feedback\_please.md\)
-
-    \* \[Better tools for authors\]\(chapter-2/2.md\)
 
