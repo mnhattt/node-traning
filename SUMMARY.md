@@ -1,14 +1,8 @@
-\* \[Part I\]\(part1/README.md\)
+\* \[Chapter 1\]\(chapter1.md\)
 
-    \* \[Writing is nice\]\(part1/writing.md\)
+\* \[Chapter 2\]\(chapter2.md\)
 
-    \* \[GitBook is nice\]\(part1/gitbook.md\)
-
-\* \[Part II\]\(part2/README.md\)
-
-    \* \[We love feedback\]\(part2/feedback\_please.md\)
-
-    \* \[Better tools for authors\]\(part2/better\_tools.md\)
+\* \[Chapter 3\]\(chapter3.md\)
 
 ## JS cơ bản
 
