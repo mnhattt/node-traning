@@ -35,7 +35,7 @@
 2. basic routing,,  middleware, template engines, validator, error handling
 3. MVC và restful API
 4. Sử dụng mongoDB với thư viện mongooes: CRUD
-5. Authentication
+5. Authentication, JWT
 6. 
 
 
