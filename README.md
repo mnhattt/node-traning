@@ -9,18 +9,29 @@
 
 # Khung chương trình
 
-### JS
+### JS\(4 ngày\)
 
-1. Ôn lại JS 1
-2. Ôn lại JS 2
-3. Các feauture mới của ES6 1
-4. Các feauture mới của ES6 2
+1. Ôn lại JS 1: Cú pháp, dynamic typing,  comporation
+2. Ôn lại JS 2: Các kiểu dữ liệu\(primitive, object type\)
+3. Các feauture mới của ES6 : Hướng đổi tượng trong JS
+4. Các feauture mới của ES6 : Desconstrucuter, spread operator, 
 
-### Node.JS
+### Node.JS \(3 ngày\)
 
 1. Node là gì ? Ưu và nhược điểm
 2. Kiến trúc Node, các core module 
-3. Xử lý bất đồng bộ trong node
+3. npm
+4. Xử lý bất đồng bộ trong node
+
+### MongoDB\(2 ngày\)
+
+1. SQL và NoSQL, 
+2. Query language, mongo shell / studio 3T
+
+## Express 
+
+1. Cơ bản về express, cấu trúc project với express
+2. router, 
 
 
 
