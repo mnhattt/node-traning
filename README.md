@@ -12,7 +12,7 @@
 ### JS\(4 ngày\)
 
 1. Ôn lại JS 1: Cú pháp, dynamic typing,  comporation
-2. Ôn lại JS 2: Các kiểu dữ liệu\(primitive, object type\)
+2. Ôn lại JS 2: Các kiểu dữ liệu\(primitive type, object type:array, function, string, ....\)
 3. Các feauture mới của ES6 : Hướng đổi tượng trong JS
 4. Các feauture mới của ES6 : Desconstrucuter, spread operator, 
 
