@@ -18,7 +18,7 @@
 
 ### Node.JS
 
-1.  Node là gì ? Ưu và nhược điểm
+1. Node là gì ? Ưu và nhược điểm
 2. Kiến trúc Node, các core module 
 3. Xử lý bất đồng bộ trong node
 
