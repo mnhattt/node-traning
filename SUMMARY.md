@@ -2,7 +2,7 @@
 
 # 
 
-# \* \[Chap1\]\(chater-1/README.md\)
+# \* \[Chap1\]\(chapter-1/README.md\)
 
 # 
 
