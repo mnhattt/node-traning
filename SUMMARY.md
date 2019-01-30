@@ -2,11 +2,7 @@
 
 \* \[Chapter 2\]\(chapter2.md\)
 
-\* \[Chapter 3\]\(chapter3.md\)
-
-## JS cơ bản
-
-* JS 1
+\* \[Chapter 3\]\(chapter3.md
 
 
 
