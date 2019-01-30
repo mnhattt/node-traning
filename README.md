@@ -21,11 +21,11 @@
 1. Node là gì ? Ưu và nhược điểm
 2. Kiến trúc Node, các core module 
 3. npm
-4. Xử lý bất đồng bộ trong node
+4. Xử lý bất đồng bộ trong node: event loop, callback, promise, async/await
 
 ### MongoDB\(2 ngày\)
 
-1. SQL và NoSQL, 
+1. SQL và NoSQL, document db
 2. Query language, mongo shell / studio 3T
 3. Quan hệ trong mongod: embedded, reference
 
