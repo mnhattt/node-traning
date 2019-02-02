@@ -7,6 +7,13 @@
 * Sử dụng được framework express 
 * CSDL NoSQL MongoDB + Mongoose
 
+# Cách thức:
+
+*  Dựa trên tài liệu chính thức\(offical docs\)
+* Sách tham khảo
+* Một số bài viết hướng dẫn hoặc giải thích kĩ một số vấn đề
+* Làm bài tập hoặc trả lời câu hỏi
+
 # Khung chương trình
 
 ### JS\(4 ngày\)
