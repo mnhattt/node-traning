@@ -2,7 +2,7 @@
 
 # Yêu cầu:
 
-* Có kiến thức căn bản về JavaScript\(JS\)
+* Có kiến thức căn bản về JavaScript\(JS\) 
 * Sử dụng được node cơ bản
 * Biết về CSDL SQL hoặc NoSQL
 
@@ -21,6 +21,7 @@
 2. Ôn lại JS 2: Các kiểu dữ liệu\(primitive type, object type:array, function, string, ....\)
 3. Các feauture mới của ES6 : Hướng đổi tượng trong JS
 4. Các feauture mới của ES6 : Desconstrucuter, spread operator, default parameter, ...
+5. Functional Programming: pure function, immuatble data, map/filter/reduce, closure, ...
 
 ### Node.js \(4 ngày\)
 
@@ -35,7 +36,7 @@
 2. Query language, mongo shell / studio 3T
 3. Quan hệ trong mongod: embedded, reference
 
-## Express \(5 ngày\)
+### Express \(5 ngày\)
 
 1. Cơ bản về express, cấu trúc project với express
 2. basic routing,,  middleware, template engines, validator, error handling

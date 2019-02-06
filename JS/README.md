@@ -6,6 +6,11 @@
 # Tài liệu tham khảo
 
 * ### [MDN JavaScript reference](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference)
+
+### Tutorial/Guide
+
+* ### [MDN JavaScript Guide](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)
+
 * ### [The Modern Javascript Tutorial](https://javascript.info/)
 
 ### 
